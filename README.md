@@ -6,8 +6,7 @@
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange?style=flat-square&logo=scikit-learn)
-  ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-  ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)
+
 
 </div>
 
@@ -568,6 +567,5 @@ Contributions are welcome! To contribute:
 5. **Open** a Pull Request
 
 <div align="center">
-  <p><strong>Made with ❤️ by Shivam Chauhan</strong></p>
   <p>If you found this project helpful, please give it a ⭐ on GitHub!</p>
 </div>
