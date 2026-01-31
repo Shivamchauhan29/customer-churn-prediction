@@ -6,7 +6,8 @@
 
   ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange?style=flat-square&logo=scikit-learn)
-
+  ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+  ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)
 
 </div>
 
